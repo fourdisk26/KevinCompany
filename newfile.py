@@ -1,4 +1,4 @@
-print('Welcome Champion')
+print('Welcome Gamer')
 
 response = input('Are you an I.T guru? ')
 
